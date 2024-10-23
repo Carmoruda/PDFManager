@@ -1,1 +1,1 @@
-# PDFSplitter
+# PDFManager
