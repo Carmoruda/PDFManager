@@ -20,6 +20,6 @@
     <img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?&color=2ea043&labelColor=202328&style=for-the-badge">
     <br>
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/carmoruda/PDFManager?color=FF69B4&labelColor=202328&style=for-the-badge">
-    <img alt="Github last commit (branch)" src="https://img.shields.io/github/last-commit/carmoruda/PDFManager/main?color=C9CC3F&labelColor=202328&label=Last Update%3F&style=for-the-badge">
+    <img alt="Github last commit (branch)" src="https://img.shields.io/github/last-commit/carmoruda/PDFManager/main?color=C9CC3F&labelColor=202328&label=Last%20Update%3F&style=for-the-badge">
     <img alt="Github repo license" src="https://img.shields.io/github/license/carmoruda/PDFManager?color=15121C&labelColor=202328&style=for-the-badge">
 </div>
