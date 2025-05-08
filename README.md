@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Open-source Python application thtat simplifes PDF manipulation, allowing users to easily merge, split, and extract pages from PDF files.
+  Open-source Python application that simplifies PDF manipulation, allowing users to easily merge, split, and extract pages from PDF files.
 </p>
 
 ---
